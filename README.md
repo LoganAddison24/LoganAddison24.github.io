@@ -10,6 +10,6 @@ Camera Effects
 
 This is my Camera Effects Project.
 
-![picture_title](picture filename?raw=true "Optional Title")
+![Logan](https://github.com/LoganAddison24/LoganAddison24.github.io/blob/master/Logan.PNG?raw=true "Optional Title")
 
 ***
