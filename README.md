@@ -8,4 +8,4 @@ This is my 360 project
 
 Camera Effects
 
-This is my Camera Effects Prolect.
+This is my Camera Effects Project.
